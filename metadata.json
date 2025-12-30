@@ -1,0 +1,5 @@
+{
+  "name": "41-ShardMaster: Interactive Sharding Guide",
+  "description": "An interactive educational tool explaining database sharding concepts, strategies, routing, and challenges through visual simulations.",
+  "requestFramePermissions": []
+}
